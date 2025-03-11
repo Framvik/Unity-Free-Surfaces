@@ -1,0 +1,8 @@
+{
+  "name": "com.framvik.assets.wood-surfaces",
+  "version": "1.0.0",
+  "displayName": "Wood Surfaces",
+  "description": "A collection of free pbr textures adjusted for Unity standard materials with a wood theme.",
+  "unity": "2022.3",
+  "hideInEditor": false
+}

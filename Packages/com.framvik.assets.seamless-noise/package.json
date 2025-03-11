@@ -1,0 +1,8 @@
+{
+  "name": "com.framvik.assets.seamless-noise",
+  "version": "1.0.0",
+  "displayName": "Seamless Noise",
+  "description": "A collection of free seamless noise textures.",
+  "unity": "2022.3",
+  "hideInEditor": false
+}

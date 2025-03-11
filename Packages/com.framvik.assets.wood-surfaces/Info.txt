@@ -1,0 +1,11 @@
+Original assets are CC0 4K resources but have been renamed and some has minor adjustments.
+
+https://ambientcg.com
+
+Dimensions		Original			Renamed
+
+				Wood003			->	ACG_WoodClean
+				Wood032			->	ACG_WoodFine
+80x80cm			Wood049			->	ACG_WoodPlain
+40x40cm			Wood056			->	ACG_WoodWorn
+				Chipboard005	->	ACG_Plywood

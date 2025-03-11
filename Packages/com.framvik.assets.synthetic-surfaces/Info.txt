@@ -1,0 +1,11 @@
+Original assets are CC0 4K resources but have been renamed and some has minor adjustments.
+
+https://ambientcg.com
+
+Dimensions		Original			Renamed
+
+				Plastic012A 	->	ACG_PlasticBlack
+				Plastic014A 	->	ACG_PlasticWhite
+				Rubber001		->	ACG_RubberHard
+				Rubber002		->	ACG_RubberGrey
+				Rubber004		->	ACG_RubberWhite

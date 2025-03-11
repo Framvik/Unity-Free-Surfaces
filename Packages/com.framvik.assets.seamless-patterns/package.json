@@ -1,0 +1,8 @@
+{
+  "name": "com.framvik.assets.seamless-patterns",
+  "version": "1.0.0",
+  "displayName": "Seamless Patterns",
+  "description": "A collection of free seamless pattern textures.",
+  "unity": "2022.3",
+  "hideInEditor": false
+}

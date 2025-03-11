@@ -1,0 +1,8 @@
+{
+  "name": "com.framvik.assets.synthetic-surfaces",
+  "version": "1.0.0",
+  "displayName": "Synthetic Surfaces",
+  "description": "A collection of free pbr textures adjusted for Unity standard materials with a synthetic theme.",
+  "unity": "2022.3",
+  "hideInEditor": false
+}
